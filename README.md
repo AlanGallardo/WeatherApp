@@ -18,7 +18,7 @@ consultar su información cuando se quiera.
 
 Para generar la carpeta node_modules escribe en el terminal:
 ```
-npm init
+npm install
 ```
 
 Una vez creado node_modules, para arrancar el servidor y
