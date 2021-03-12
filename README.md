@@ -1,7 +1,14 @@
 # WeatherApp
 Web para consultar el tiempo atmosférico en tiempo real.
 
-La web está contruida de la siguiente manera:
+Con ella podrás solicitar las condiciones climatologicas
+en tiempo real de una ciudad solo con buscar su nombre
+en el buscador.
+
+También puedes guardar como favorita una ciudad para
+consultar su información cuando se quiera.
+
+**La web está contruida de la siguiente manera:**
 
 ![alt text](https://github.com/AlanGallardo/WeatherApp/blob/main/Estructura-WeatherApp.jpg?raw=true)
 
