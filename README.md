@@ -3,7 +3,7 @@ Web para consultar el tiempo atmosférico en tiempo real.
 
 La web está contruida de la siguiente manera:
 
-![alt text](https://github.com/AlanGallardo/WeatherApp/Estructura-Weather.jpg?raw=true)
+![alt text](https://github.com/AlanGallardo/WeatherApp/blob/main/Estructura-WeatherApp.jpg?raw=true)
 
 Para generar la carpeta node_modules escribe en el terminal:
 ```
