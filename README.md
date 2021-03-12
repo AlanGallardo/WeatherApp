@@ -1,4 +1,6 @@
 # WeatherApp
+***Descripción***
+
 Web para consultar el tiempo atmosférico en tiempo real.
 
 Con ella podrás solicitar las condiciones climatologicas
@@ -11,6 +13,8 @@ consultar su información cuando se quiera.
 **La web está contruida de la siguiente manera:**
 
 ![alt text](https://github.com/AlanGallardo/WeatherApp/blob/main/Estructura-WeatherApp.jpg?raw=true)
+
+***Pasos para su funcionamiento***
 
 Para generar la carpeta node_modules escribe en el terminal:
 ```
