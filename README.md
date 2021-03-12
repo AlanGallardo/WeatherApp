@@ -26,3 +26,8 @@ la conexión con la base de datos escribe en el terminal:
 ```
 npm run all
 ```
+
+***Despligue***
+
+Debido a su complejidad y a la falta de tiempo, la web no ha podido ser
+desplegada.
