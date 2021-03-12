@@ -27,6 +27,12 @@ la conexión con la base de datos escribe en el terminal:
 npm run all
 ```
 
+La web se aloja en el puerto 3000, así que para visualizarla
+escribe en la barra de url:
+```
+http://localhost:3000
+```
+
 ***Despligue***
 
 Debido a su complejidad y a la falta de tiempo, la web no ha podido ser
